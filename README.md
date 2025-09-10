@@ -12,5 +12,5 @@ Lois Lane : rachel brosnahan <br>
 Lex Luthor : nicholas hoult
 
 # Link
-[Official DC Website](https://www.dc.com)
-[Official IMBD]([https://www.dc.com](https://www.imdb.com/title/tt5950044))
+[Official DC Website](https://www.dc.com) <br>
+[Official IMBD]([https://www.dc.com](https://www.imdb.com/title/tt5950044)
