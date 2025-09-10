@@ -15,4 +15,4 @@ Lex Luthor : nicholas hoult
 [Official DC Website](https://www.dc.com) <br>
 [Official IMDB](https://www.imdb.com/title/tt5950044) <br>
 
-[Superman](https://img.shields.io/badge/Hero-Superman-red) 
+![Superman](https://img.shields.io/badge/Hero-Superman-red) 
