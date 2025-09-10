@@ -1,3 +1,3 @@
 # Kapsel-Andat_01
-test baru
-mau cobain ah
+# test kedua 
+# kapsel andat minggu ke2
