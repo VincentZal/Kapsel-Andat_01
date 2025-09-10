@@ -1,3 +1,6 @@
 # Kapsel-Andat_01
-# test kedua 
-# kapsel andat minggu ke2
+Ini minggu kedua kelas kapita selektif analisa data
+# pembelajaran
+belajar github dengan visual studio code
+# pelatihan
+test dengan connect github dan vsc
