@@ -4,3 +4,5 @@ Ini minggu kedua kelas kapita selekta analisa data
 belajar github dengan visual studio code
 # pelatihan
 test dengan connect github dan vsc
+
+ ![Image Alt](). 
