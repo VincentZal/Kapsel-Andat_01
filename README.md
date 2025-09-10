@@ -5,4 +5,4 @@ belajar github dengan visual studio code
 # pelatihan
 test dengan connect github dan vsc
 
- ![Image Alt](). 
+ ![Image Alt](https://github.com/VincentZal/Kapsel-Andat_01/blob/e8ee0261ff38b684ace41afe7d5be528c4c23de2/superman.jpg). 
