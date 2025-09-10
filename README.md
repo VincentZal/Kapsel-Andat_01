@@ -1,4 +1,4 @@
-# SUPERMAN 2025
+# 🦸 SUPERMAN : LEGACY 
 
 Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. <br>
 As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.
