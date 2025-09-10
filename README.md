@@ -14,3 +14,4 @@ Lex Luthor : nicholas hoult
 # Link
 [Official DC Website](https://www.dc.com) <br>
 [Official IMDB](https://www.imdb.com/title/tt5950044)
+![Release Date](https://img.shields.io/badge/Release-July_11,_2025-blue)
