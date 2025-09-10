@@ -12,3 +12,6 @@ As the embodiment of truth, justice and the human way he soon finds himself in a
 Superman / Clark Kent : David Corenswet <br>
 Lois Lane : rachel brosnahan <br>
 Lex Luthor : nicholas hoult
+
+# Link
+[Official DC Website](https://www.dc.com)
