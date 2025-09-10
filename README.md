@@ -5,6 +5,8 @@ As the embodiment of truth, justice and the human way he soon finds himself in a
 
  ![Image Alt](https://github.com/VincentZal/Kapsel-Andat_01/blob/e8ee0261ff38b684ace41afe7d5be528c4c23de2/superman.jpg). 
 
+> "Truth, Justice, and a Better Tomorrow."  
+
 # Cast
 
 Superman / Clark Kent : David Corenswet <br>
