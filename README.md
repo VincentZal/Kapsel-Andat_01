@@ -26,7 +26,7 @@ Lex Luthor : nicholas hoult
    Pop some popcorn, grab a drink — but keep the Kryptonite away!
 
 3. **Summon the Man of Steel**  
-   Choose your Superman movie/series (Christopher Reeve, Henry Cavill, animated, your pick).
+   Choose your Superman movie/series (DAvid Corenswet).
 
 4. **Take Flight** ✈️  
    Press play and let the adventure begin.
