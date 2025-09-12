@@ -17,7 +17,7 @@ Lex Luthor : nicholas hoult
 
 ![Superman](https://img.shields.io/badge/Hero-Superman-red) 
 
-## How to Watch Superman 🦸‍♂️
+## How to Watch Superman : Legacy 🦸‍♂️
 
 1. **Find Your Fortress of Solitude**  
    Grab a comfy spot, whether it’s your couch, bed, or secret hideout.
